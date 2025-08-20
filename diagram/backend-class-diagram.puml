@@ -1,0 +1,9 @@
+# Diagrama de Clases Backend
+
+El diagrama de clases de los servicios creados se encuentra en este archivo PlantUML.
+
+```plantuml
+@startuml
+' Aquí se generará el diagrama de clases una vez implementados los servicios
+@enduml
+```
